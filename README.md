@@ -63,3 +63,7 @@ Main authenticated application for aurifex labs.
 ## First thing to do:
 
 - New user creation
+
+## Dev Notes:
+
+- use Authzero 
