@@ -1,0 +1,32 @@
+ FROM 
+ 
+ 0 ls
+   1 node -v
+   2 git -v
+   3 apt install git
+   4 apt -get
+   5 snap -v
+   6 apk -v
+   7 apk install git
+   8 apk --help
+   9 apk add git
+  10 apk search node
+  11 apk add nodejs
+  12 npm -v
+  13 apk add npm
+  14 ls
+  15 cd root
+  16 ls
+  17 git clone https://github.com/Honshu11/aurifex-core-app.git
+  18 ls
+  19 cd aurifex-core-app/
+  20 ls
+  21 npm install
+  22 ls
+  23 npm run build
+  24 npm start
+  25 netstat
+  26 netstat -tulpn
+  27 npm start &
+  28 netstat -tulpn
+  29 history
