@@ -50,7 +50,6 @@ Main authenticated application for aurifex labs.
 - AWS Lambda
 - OKTA (For authentication)
 
-- Gulp
 - AWS S3
 - Docker
 
