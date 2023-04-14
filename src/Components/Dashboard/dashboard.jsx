@@ -9,7 +9,6 @@ function Dashboard() {
       </div>
       <form class="flex-auto p-6">
         <div class="flex flex-wrap">
-          <h1>Testing</h1>
           <h1 class="flex-auto text-lg font-semibold text-slate-900">
             Classic Utility Jacket
           </h1>
