@@ -1,8 +1,9 @@
 import './App.css'; 
 import Navbar from './Components/Navbar/Navbar';
-import Dashboard from './Components/Dashboard/dashboard';
+import Dashboard from './Components/Dashboard/Dashboard';
 import ProjectCard2 from './Components/ProjectCard/ProjectCard2';
 import SignIn from './Components/SignIn/SignIn';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
@@ -14,11 +15,15 @@ function App() {
           <SignIn />
         </div>
         <div class="flex">
-          <ProjectCard2/>
-          <ProjectCard2/>
+          <ProjectCard2 />
+          <ProjectCard2 />
+          <ProjectCard2 />
         </div>
-        <Dashboard/>
+        <Dashboard />
       </main>
+      <footer>
+        <Footer/>
+      </footer>
     </div>
   );
 }
